@@ -1,0 +1,60 @@
+body {font-family: Times New Roman;
+  background-color: #f4dcbb;
+}
+
+h1 {
+  font-family: Tahoma;
+  font-size: 40px;
+  color: #f4dcbb;
+  background-color: #2b2741
+}
+
+h2 {
+    font-family: Garamond;
+      font-size: 25px;
+  }
+
+#section1 {
+      width: 50%;
+      float: left;
+  }
+
+#section2 {
+      width: 50%;
+      float: right;
+  }
+
+div.PICD {
+    width: 100%;
+    height: 80%;
+}
+
+div.EA {
+    width: 100%;
+    height: 80%;
+}
+
+div.S {
+    width: 90%;
+    height: 360px;
+    margin-top: 50px;
+    padding: 0;
+}
+
+div.IH{
+    width: 100%;
+    height: 350px;
+    margin-top: 40px;
+    margin-bottom: 10px
+    padding:0;
+}
+
+div.WRE {
+    width: 100%;
+    height: 20px;
+    height: 200px;
+    padding:0;
+}
+
+div.StyleHeadings1 {border-left: 4px solid #2b2741;
+ border-width: medium}
